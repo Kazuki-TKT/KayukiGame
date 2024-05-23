@@ -70,3 +70,10 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+/[Aa]ssets/2D Casual UI
+/[Aa]ssets/Audio
+/[Aa]ssets/fonts
+/[Aa]ssets/UI and Item Sound Effects
+/[Aa]ssets/Plugins
+/[Aa]ssets/naichilab
+/[Aa]ssets/03. Asset

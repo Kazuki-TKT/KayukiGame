@@ -1,0 +1,5 @@
+interface GetItemIO
+{
+    void GetItem();
+}
+
